@@ -3,7 +3,9 @@
 Set your .env File with below details
 
 INFURA_API_KEY = YOUR_INFURA_API_KEY
+
 GOERLI_PRIVATE_KEY= YOUR_GOERLI_PRIVATE_KEY
+
 ETHERSCAN_API_KEY = YOUR_ETHERSCAN_API_KEY
 
 Try running some of the following tasks:
