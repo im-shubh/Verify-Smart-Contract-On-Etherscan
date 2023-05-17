@@ -1,4 +1,4 @@
-# Sample Hardhat Project For Verify Smart Contract
+# Hardhat Project For Verify Smart Contract
 
 Set your .env File with below details
 
