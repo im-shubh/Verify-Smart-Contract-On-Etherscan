@@ -1,5 +1,7 @@
 # Hardhat Project For Verify Smart Contract
 
+For better understanding :- https://medium.com/@im-shubh/verify-smart-contract-on-etherscan-using-hardhat-ed40913d643e
+
 Set your .env File with below details
 
 INFURA_API_KEY = YOUR_INFURA_API_KEY
